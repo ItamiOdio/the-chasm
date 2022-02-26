@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LeftRight
+  - LeftRightTop
+  - LeftRightDown
+  - LeftDownTopDown
+  - Lantern
+  - SceneLoader
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_far
+    uniqueID: 73125035
+    locked: 0
+  - name: Background_middle
+    uniqueID: 636560901
+    locked: 0
+  - name: Background_close
+    uniqueID: 3791556793
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particle
+    uniqueID: 273231917
+    locked: 0
+  - name: Camera
+    uniqueID: 2992879139
+    locked: 0

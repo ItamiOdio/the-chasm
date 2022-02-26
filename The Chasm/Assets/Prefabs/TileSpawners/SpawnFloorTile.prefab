@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2996769428453414711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2996769428453414712}
+  - component: {fileID: 2996769428453414713}
+  m_Layer: 0
+  m_Name: SpawnFloorTile
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2996769428453414712
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996769428453414711}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -9.5, y: -4.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2996769428453414713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2996769428453414711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a727a8834995dbf4f82e683e7ffd965a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Tiles:
+  - {fileID: 1156676959555422040, guid: 729478a1d4d19ae45baf789144db0f69, type: 3}
+  - {fileID: 8221661912512042582, guid: 60af9a43ebff757438a22b2b80344eeb, type: 3}
+  - {fileID: 7406978797740545153, guid: ca36d3aa230611b48adba6054e457dc7, type: 3}
+  - {fileID: 1607989018992639145, guid: 13bd296ea56d60a4e82fc6721314528a, type: 3}
+  - {fileID: 5243710883189335453, guid: da886160b2cddb74a9ab7d19d4c36d34, type: 3}
+  - {fileID: 7163056771095637685, guid: d900aa582e29395428c1040e0d278b71, type: 3}
+  - {fileID: 5476931912010341305, guid: 1c0f4e677567a964fabe94b81391579e, type: 3}
+  - {fileID: 5031161766630161348, guid: 80fa99319d98c1446983d2f67d69ffbd, type: 3}
+  - {fileID: 2209471405796511568, guid: 26cd54e97b34ebe41966fe74b5d6ca18, type: 3}
+  - {fileID: 8416348793076436010, guid: d819a8be72871db4fb93ca91a53ac5aa, type: 3}
